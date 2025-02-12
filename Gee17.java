@@ -1,6 +1,11 @@
 public class Gee17{
   public static void main(String[] args){
-    TwoDee twoDee = new TwoDee();
+
+
+    //populate with sequenctial numbers
+
+
+    ArrayAverages twoDee = new TwoDee();
 
     twoDee.rowAverages();
     twoDee.columnAverages();
